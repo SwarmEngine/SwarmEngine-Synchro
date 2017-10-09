@@ -1,2 +1,2 @@
-# SwarmEngine-Synchro
+# SwarmSynchro
 The synchronization package of SwarmEngine
